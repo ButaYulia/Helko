@@ -8,6 +8,7 @@ html,
 body {
     width: 100%;
     height: 100%;
+
 }
 
 body {
@@ -16,12 +17,8 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
-    border-width: 3px;
-}
-
-hr.light {
-    border-color: #fff;
+    font color="transparent
+     border-width: 0px;
 }
 
 a {
@@ -29,7 +26,10 @@ a {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+
 }
+
+
 
 a:hover,
 a:focus {
@@ -90,6 +90,7 @@ aside {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     color: #f05f40;
+
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -447,6 +448,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 15px 30px;
+    margin-top: 25x;
 }
 
 ::-moz-selection {
@@ -474,3 +476,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+
