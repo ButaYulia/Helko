@@ -22,7 +22,7 @@ hr {
 }
 
 a {
-    color: #f05f40;
+    color: #ffffff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -230,6 +230,11 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 1000px;
+    }
+
+    .logo
+    {
+        align:right; 
     }
 
     header .header-content .header-content-inner p {
@@ -475,6 +480,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
-}
-
-
+} 
